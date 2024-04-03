@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋  My name is Tsubasa</h1>
-<h3 align="center">Hi there 👋</h3>
+<h1 align="center">Hi there 👋  I'm Tsubasa</h1>
+<h3 align="center">I am a person who will change the world for the better!!!</h3>
 
 
 <!--
